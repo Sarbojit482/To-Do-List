@@ -75,7 +75,7 @@ Main function: Initializes database connection, runs the Tkinter main loop, and 
 ![Screenshot 2025-06-06 084509](https://github.com/user-attachments/assets/ed789455-b6cb-42c3-8e88-41b7ed7009b7)
 
 
-# Future Improvements
+# Future Improvements(needed Features)
 User authentication for multiple users.
 
 Due dates and task priorities.
