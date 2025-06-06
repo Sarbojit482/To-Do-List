@@ -87,4 +87,9 @@ Sync with online MongoDB or cloud database.
 Export tasks to CSV or PDF reports.
 
 # License
-This project is open-source and free to use for educational and personal purposes.
+This project is licensed under the MIT License.
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The software is provided "as is", without warranty of any kind, express or implied.
